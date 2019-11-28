@@ -1,0 +1,10 @@
+p {
+	color: seashell;
+	background: fuchsia;
+	font-size: small;
+	text-align: center;
+}
+
+h3 {
+  text-shadow: 2px 2px 4px #000000;
+}
