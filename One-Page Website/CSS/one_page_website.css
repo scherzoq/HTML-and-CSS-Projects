@@ -54,6 +54,13 @@ h2 {
     text-align: center;
 }
 
+input {
+    width: 300px;
+    margin: 1em 0.5em;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
 footer {
     margin: 20px;
     text-align: center;
